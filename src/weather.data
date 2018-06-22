@@ -1,0 +1,6 @@
+{"Chicago",     {weather, {current,  84, "Clear"}, {forecast,  72, "Windy"}}}.
+{"Sydney",      {weather, {current,  68, "Rainy"}, {forecast,  53, "Clear"}}}.
+{"London",      {weather, {current,  85, "Hot"},   {forecast,  66, "Rainy"}}}.
+{"San Antonio", {weather, {current, 102, "Hot"},   {forecast, 105, "Hot"}}}.
+{"Antarctica",  {weather, {current, -85, "Cold"},  {forecast, -73, "Cold"}}}.
+{"Singapore",   {weather, {current,  98, "Hot and humid"},  {forecast, 73, "Warm"}}}.
